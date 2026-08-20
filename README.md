@@ -40,15 +40,14 @@ If this script saved you time and clicks, consider supporting my work!
 
 2. Install required python packages:
 
-Bash
 pip install -r requirements.txt
+
 🎮 How to Use
 
 3.Launch Idle Slayer.
 
 4. Run the macro:
 
-Bash
 python main.py
 Click inside your Idle Slayer game window to ensure it is focused.
 
