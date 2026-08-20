@@ -1,6 +1,7 @@
 # Idle Slayer Auto-Jump & Dash Macro
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/drowfear)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5e5b.svg?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/drowfear)
 
 An automated Python script designed to handle jump and dash timing for the game **Idle Slayer**. It binds to the active game window and executes inputs while respecting window focus.
 
