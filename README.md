@@ -44,16 +44,15 @@ pip install -r requirements.txt
 
 🎮 How to Use
 
-3.Launch Idle Slayer.
+1.Launch Idle Slayer.
 
-4. Run the macro:
+2. Run the macro: "python main.py"
 
-python main.py
-Click inside your Idle Slayer game window to ensure it is focused.
+3. Click inside your Idle Slayer game window to ensure it is focused.
 
-Press Ctrl + Shift + D while inside the game window to bind it and toggle the macro ON / OFF.
+4. Press Ctrl + Shift + D while inside the game window to bind it and toggle the macro ON / OFF.
 
-Press ESC at any time to immediately close the script.
+5. Press ESC at any time to immediately close the script.
 
 ⚠️ Disclaimer
 This tool is intended strictly for educational and personal automation purposes. Use it at your own risk and respect the Terms of Service of the games you play.
