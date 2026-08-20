@@ -29,6 +29,7 @@ print("1. Click INSIDE your Idle Slayer game window.")
 print("2. With the game focused, press: Ctrl + Shift + D")
 print("   (This will automatically bind the target window)")
 print(" -> Exit script: ESC")
+print(" If you like this script, consider supporting the developer: https://buymeacoffee.com/drowfear or https://ko-fi.com/drowfear")
 print("=======================================================")
 
 while True:
