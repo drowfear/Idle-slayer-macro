@@ -11,7 +11,7 @@ An automated Python script designed to handle jump and dash timing for the game 
 If this script saved you time and clicks, consider supporting my work!
 
 👉 **[buymeacoffee.com/drowfear](https://buymeacoffee.com/drowfear)**
-
+👉 **[ko-fi.com/drowfear](https://ko-fi.com/drowfear)**
 ---
 
 ## 🌟 Key Features
